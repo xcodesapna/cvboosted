@@ -1,5 +1,5 @@
 # cvboosted
-CVBoosted: Your Ultimate Resume-Boosting Tool  [cvboosted.com/blog](https://cvboosted.com)
+CVBoosted: Your Ultimate Resume-Boosting Tool  [cvboosted.com](https://cvboosted.com)
 CVBoosted is an innovative platform tailored to streamline and supercharge your resume-building process. Whether you're a job seeker, a freelancer, or a professional looking to showcase your skills, CVBoosted provides a dynamic, user-friendly solution to craft resumes that stand out.
 
 Key Features:
