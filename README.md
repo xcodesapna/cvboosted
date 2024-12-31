@@ -12,13 +12,16 @@ Includes proper formatting, keyword optimization, and structure for maximum visi
 🎨 Creative Templates
 Choose from a range of professionally designed templates suited for every industry.
 Add a splash of creativity to match your profession and personality.
+
 ✨ Easy Integration
 Seamlessly integrate your LinkedIn profile, GitHub repositories, and other professional links to create a complete profile.
 Export resumes in multiple formats (PDF, Word, etc.).
+
 📊 Smart Analytics
 Receive actionable insights on your resume’s effectiveness.
 Track recruiter views and engagement (future feature).
 Why Choose CVBoosted?
+
 🛠 For Developers and Tech Enthusiasts
 Ideal for those seeking to highlight technical skills, projects, and achievements in a concise yet impactful way.
 🌐 For Professionals Across Industries
